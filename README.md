@@ -1,5 +1,5 @@
-# Description:
-__CPK Audio Mixer__: With this tool you can extract and change the audio of *.cpk videos (Cinepak) from Tomb Raider and Rayman games FMV videos for Sega Saturn. It __only__ supports videos with uncompressed audio.
+# CPK Audio Mixer:
+With this tool you can extract and change the audio of *.cpk videos (Cinepak) from Tomb Raider and Rayman games FMV videos for Sega Saturn. It __only__ supports videos with uncompressed audio.
 
 Application available in: English, Spanish, Italian and Portuguese.
 
