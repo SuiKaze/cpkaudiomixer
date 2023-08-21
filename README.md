@@ -1,5 +1,7 @@
 # Description:
-With this tool you can extract and change the audio of *.cpk videos (Cinepack) from Tomb Raider and Rayman games FMV videos. It only supports videos with uncompressed audio.
+With this tool you can extract and change the audio of *.cpk videos (Cinepack) from Tomb Raider and Rayman games FMV videos for Sega Saturn. It only supports videos with uncompressed audio.
+
+Application available in: English, Spanish, Italian and Portuguese.
 
 # Requirements:
 * Windows 10 or higher.
@@ -16,6 +18,7 @@ Other games tested: Astal, Dark Seed II, Lunar: Silver Star Story, Mansion of Hi
 
 # Special Thanks:
 * __Mark James__: For his icons for applications from his Website: [www.famfamfam.com](http://www.famfamfam.com/).
+* __Delta__: for his translation to Italian.
 
 # Links:
 * [Tomb Raider Translations World (English)](https://trtranslationsworld.wordpress.com/)
